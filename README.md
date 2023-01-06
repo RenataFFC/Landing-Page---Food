@@ -16,7 +16,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 <img src="https://user-images.githubusercontent.com/97262523/211092719-35879e5c-79cd-4c6b-9418-40b2db2cf871.png">
 </div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97262523/211092952-7a4fda81-a4ec-419e-9000-8e3e117b88d0.png">
+<img src="https://user-images.githubusercontent.com/97262523/211093164-c50ea33e-3ada-4bb3-8d70-6b6ccc1664f9.png">
 </div>
 
 
